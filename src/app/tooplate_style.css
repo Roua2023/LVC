@@ -11,7 +11,7 @@ body {
 	font-size: 13px;
 	line-height: 1.7em; 
 	background-color: #0a1425;
-	background-image: url(../assets/images/tooplate_body.jpg);
+	background-image: url(images/tooplate_body.jpg);
 	background-repeat: repeat-x;
 	background-position: top;	
 }
@@ -36,7 +36,7 @@ a.more {
 	text-decoration: none; 
 	font-weight: 700; 
 	font-size: 11px; 
-	background: url(../assets/images/tooplate_more.png)  no-repeat top center; 
+	background: url(images/tooplate_more.png)  no-repeat top center; 
 	color: #46b8fb;
 }
 
@@ -118,7 +118,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	color:#fff; 
 	margin: 0; 
 	padding: 0 0 5px 20px; 
-	background: url(../assets/images/tooplate_list.png) no-repeat scroll 0 5px;  
+	background: url(images/tooplate_list.png) no-repeat scroll 0 5px;  
 }
 
 .tooplate_list li a { 
@@ -144,7 +144,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	float: right;
 	width: 988px;
 	height: 88px;
-	background: url(../assets/images/tooplate_menu.png);
+	background: url(images/tooplate_menu.png);
 }
 
 #tooplate_menu ul {
@@ -163,7 +163,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	padding: 0;
 	margin: 0;
 	display: inline;
-	background: url(../assets/images/tooplate_menu_divider.png) right top no-repeat;
+	background: url(images/tooplate_menu_divider.png) right top no-repeat;
 }
 
 #tooplate_menu ul .last { 
@@ -195,7 +195,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	clear: both;
 	width: 988px;
 	text-align: center;
-	background: url(../assets/images/tooplate_image_02.jpg) no-repeat top;
+	background: url(images/tooplate_header.png) no-repeat top;
 }
 
 #site_title { 
@@ -215,7 +215,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	color: #fff; 
 	outline: none; 
 	text-indent: -10000px; 
-	background: url(../assets/images/tooplate_logo.png) no-repeat top left; 
+	background: url(images/tooplate_logo.png) no-repeat top left; 
 }
 
 /* end of menu */
@@ -226,7 +226,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	height: 227px;
 	padding: 100px 94px;
 	overflow: hidden;
-	background: url(../assets/images/tooplate_middle.png);
+	background: url(images/tooplate_middle.png);
 }
 
 #mid_title { 
